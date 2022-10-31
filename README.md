@@ -1,2 +1,2 @@
-# Proyecto de Fin Curs
+# Proyecto de Fin Curso
 ##Gestion de notas
